@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\empol\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\empol\\.nuget\\packages"
+    ]
+  }
+}
